@@ -16,30 +16,6 @@ AI/ML Engineer with 1.5+ years of experience specializing in Generative AI and L
 - **ML/DL:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 - **Data Science:** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 
-## 🎯 Featured Projects
-
-### 🤖 Personalized Chatbot Using OpenAI RAG Model
-- Developed an intelligent chatbot using OpenAI's technology and RAG architecture
-- Implemented semantic matching system for query vectorization
-- Created similarity algorithms for accurate response generation
-- Enhanced user engagement through personalized interactions
-
-### 🍷 Wine Label Detection and Classification System
-- Built an end-to-end computer vision system using TensorFlow and Azure Custom Vision
-- Implemented real-time detection using OpenCV
-- Created a robust classification system with multi-angle recognition capabilities
-
-### 📞 Microsoft Teams Call Analysis System
-- Integrated Microsoft Graph API for call recording extraction
-- Utilized AWS Transcribe and Textract for audio-to-text conversion
-- Developed custom NER model using Spacy
-- Automated daily processing using Django Crontab
-
-### 💬 Local Chatbot with LLama.cpp and GPT4All
-- Created an offline-capable chatbot system
-- Implemented document embedding and semantic search
-- Processed multiple file formats (PDF, DOCX, TXT)
-- Integrated local LLM models for response generation
 
 ## 🎓 Education
 - **Bachelor's in Computer Engineering**
@@ -52,11 +28,7 @@ AI/ML Engineer with 1.5+ years of experience specializing in Generative AI and L
 - **AI/ML:** Langchain, Azure OpenAI (GPT-3.5, GPT-4.0), Vector Databases
 - **Web Scraping:** Selenium, BeautifulSoup4
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+--
 
 ---
 

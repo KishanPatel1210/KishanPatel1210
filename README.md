@@ -6,7 +6,7 @@
 [![Location](https://img.shields.io/badge/Location-Ahmedabad,_India-4A154B?style=flat)](https://www.google.com/maps/place/Ahmedabad)
 
 ## 🚀 About Me
-AI/ML Engineer with 2.5+ years of experience specializing in Generative AI and Large Language Models. Passionate about building intelligent systems and solving complex problems using cutting-edge AI technologies. Currently working at Nexgits Private Limited, where I develop and implement AI solutions using Azure-OpenAI, LLMs, and custom ML models.
+AI/ML Engineer with 2.5+ years of experience specializing in Generative AI and Large Language Models. Passionate about building intelligent systems and solving complex problems using cutting-edge AI technologies.
 
 ## 💻 Technical Stack
 
